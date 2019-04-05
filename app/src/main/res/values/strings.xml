@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin Dinner Decider</string>
+    <string name="choose_food">What are you hungry for?</string>
+    <string name="decide">DECIDE</string>
+    <string name="hungry_for">Enter a new food here</string>
+    <string name="add_food">ADD FOOD</string>
+    <string name="first_alpha">FIRST ALPHABETICALLY</string>
+    <string name="newest_food">NEWEST</string>
+</resources>
